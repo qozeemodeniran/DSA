@@ -15,4 +15,4 @@ rl.question('Enter the value of the number of which factorial you want to find: 
 
     console.log(`The factorial of ${number} is ${factorial}`);
     rl.close();
-})
+});
