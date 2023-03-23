@@ -1,0 +1,33 @@
+Data Structres and Types
+DS - storage used to store data and organize data on a computer for efficient update and access.
+
+Types of DS
+1. Linear - elements (data) are arranged in sequential order (one after the other). This makes them easy to implement. However, it becomes inefficient when complexity of the program increases.
+
+    * Popular examples of Linear DS
+    - Array: elements of same type are arranged in a continuous memory  
+
+    - Stack: elements are arranged on LIFO (last in first out) principle.
+
+    - Queue: elements are arranged on FIFO (first in first out) principle
+    
+    - Linked List: elements are connected via serieis of node, where each node has data items and address to the next node.
+
+2. Non-Linear - elements (data) are arranged in hierarchical manner, where one element is connected to one or more elements.
+
+    * Types of non-linear DS
+    - Graph: each node (vertex) is connected to other vertices via edges.
+        ** Popular graph-based DS
+        - spanning tree and minimum spanning tree
+        - strongly connected components
+        - adjacent matrix
+        - adjacent list
+
+    - Tree: similar to graph, but only accomadates one edge between vertices
+        ** Popular tree-based DS
+        - binary tree
+        - binary search tree
+        - avl tree
+        - b- tree
+        - b+ tree
+        - reb-black tree
